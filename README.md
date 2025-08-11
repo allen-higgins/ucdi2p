@@ -5,6 +5,6 @@ Two subfolders, `group-project` and `sandbox`, are the place for working copies 
 Do please create new `folders` and `files` as you experiment and learn!\
 
 ### Appendix
-* This file is `README.md` is written in **markdown**.\
-* How to use **markdown** in [github docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).\
-* For step-by-step lessons on how to use GitHub see [GitHub Skills](https://skills.github.com).\
+* This file is `README.md` is written in **markdown**.
+* How to use **markdown** in [github docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* For step-by-step lessons on how to use GitHub see [GitHub Skills](https://skills.github.com).
