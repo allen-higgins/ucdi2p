@@ -1,0 +1,7 @@
+TransactionID,Timestamp,CustomerID,Amount,Status
+1,2023-11-01 09:02,101,150.00,Completed
+2,2023-11-01 09:05,102,75.50,completed
+3,2023-11-01 09:06,101,,COMPLETED 
+4,2023-11-01 09:10,103,25.00,failed
+5,2023-11-01 09:12,104,500.00,Completed
+6,2023-11-01 09:15,102,15.25,Completed

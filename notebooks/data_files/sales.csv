@@ -1,0 +1,7 @@
+Date,Region,Product,UnitsSold,Price
+2023-10-01,North,Widget A,100,5.00
+2023-10-01,South,Widget B,150,7.50
+2023-10-02,North,Widget B,80,7.50
+2023-10-02,West,Widget A,120,5.00
+2023-10-03,South,Widget A,200,5.00
+2023-10-03,West,Widget C,50,12.00
