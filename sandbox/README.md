@@ -1,8 +1,16 @@
 A working area for experiments.
 
 Enter mermaid code to demonstrate flowchart diagraming
-
-```graph TD
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+Another mermaid diagram
+```mermaid
+graph TD
     Start((Start)) --> Input[/Input temp/]
     Input --> CheckHigh{temp > 30?}
     
@@ -16,5 +24,4 @@ Enter mermaid code to demonstrate flowchart diagraming
     PrintCold --> End
     PrintNice --> End
 ```
-
 
